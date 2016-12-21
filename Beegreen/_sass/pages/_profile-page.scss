@@ -1,0 +1,115 @@
+.tree-decoration {
+    height: 500px;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    background-color: $green;
+}
+
+.cloud {
+   height: 181px;
+    width: 100%;
+    position: absolute;
+    top: -130px;
+}
+
+.tree-container {
+    position: absolute;
+    top: 450px;
+    width: 100%;
+    height: 50%;
+
+    
+    margin-bottom: 50px;
+    
+}
+
+/*CONTENT CODE*/
+
+
+#inner-container {
+  width: 80%;
+  height: auto;
+  margin: 0 auto; 
+  
+}
+ 
+
+#inner-container a {
+  color: $black; }
+
+#inner-container a:hover {
+  color: $yellow; }
+
+
+.info-container {
+    background-color: white;    
+    width: 100%;
+}
+
+
+
+/*Profile info*/
+.profile-card-container-profile {
+  position: fixed;
+  top: 80px;
+  padding-left: 35px;
+  width: 100%;    
+  height: 250px;
+  color: white;
+  padding-bottom: 20px;
+
+  }
+
+
+/*Progress-bar*/
+
+
+
+
+.progressbar-indicator {
+  height: 20px;
+  border-radius: 10px;
+  background-color: $yellow;
+}
+
+@media(max-width: 700px){
+    
+    
+    .progressbar{
+       position: relative;
+       top: 25px;  
+       width: 90%;    
+       margin: auto;
+        padding-right: 7px;    
+        background-color: white;
+        border-radius: 10px;  
+
+    }
+
+    
+    
+      
+}
+
+@media(min-width: 701px){
+    
+    
+    .progressbar {
+        background: white;
+       position: relative;
+       top: -80px;  
+       width: 55%;
+        float: right;
+       margin: auto;
+        margin-right: 10%;
+     background-color: white;
+        border-radius: 10px;
+       padding: 1px;
+        margin-right: 10%;
+    }
+      
+}
+
+
+
