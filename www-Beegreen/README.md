@@ -7,10 +7,11 @@
 * run bundle exec jekyll-serve
 
 
-```
+~~~~
 bundle install
 bundle exec jekyll serve
-```
+~~~~
+
 
 >projecten onder de solution
 -----
