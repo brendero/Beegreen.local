@@ -1,3 +1,11 @@
+/*Adriaan Glibert | Brent De Roeck | 
+2MMP-03 |Multimedia Production (proDEV) |
+New Media design & Development I (NMDAD I) |
+Academic Year 2016-17 , Bachelor of Graphical and Digital Media ,  Artevelde University College Ghent 
+
+javascript bestand om de ranking te laten zien van de activeuser + de activiteiten die hij al gekozen heeft te laten komen op de profile-page
+*/
+
 ;(function(){
     
      var profilePageContent = localStorage.getItem('addToProfile');

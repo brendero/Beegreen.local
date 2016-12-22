@@ -1,3 +1,11 @@
+/*Adriaan Glibert | Brent De Roeck | 
+2MMP-03 |Multimedia Production (proDEV) |
+New Media design & Development I (NMDAD I) |
+Academic Year 2016-17 , Bachelor of Graphical and Digital Media ,  Artevelde University College Ghent 
+
+radomuser.me Implementatie + friends-feed automatisatie
+*/
+
 function ready(cb) {
     /in/.test(document.readyState)
     ? setTimeout(ready.bind(null, cb), 90)

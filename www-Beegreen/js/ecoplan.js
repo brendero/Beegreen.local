@@ -1,3 +1,12 @@
+/*Adriaan Glibert | Brent De Roeck | 
+2MMP-03 |Multimedia Production (proDEV) |
+New Media design & Development I (NMDAD I) |
+Academic Year 2016-17 , Bachelor of Graphical and Digital Media ,  Artevelde University College Ghent
+
+Implementatie van de ecoplan database van gent en het plaatsen van de discober items op de discover-page
+ */
+
+
 //IIFE
 (function(){
     

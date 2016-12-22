@@ -1,3 +1,11 @@
+/*Adriaan Glibert | Brent De Roeck | 
+2MMP-03 |Multimedia Production (proDEV) |
+New Media design & Development I (NMDAD I) |
+Academic Year 2016-17 , Bachelor of Graphical and Digital Media ,  Artevelde University College Ghent 
+
+utilities om bepaalde functies uit te voeren bv: calculateDistance
+*/
+
 var Utils = {
     getParamsFromUrl: function(url) {
         var regex = /[?&]([^=#]+)=([^&#]*)/g,

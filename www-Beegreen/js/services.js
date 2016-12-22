@@ -1,3 +1,11 @@
+/*Adriaan Glibert | Brent De Roeck | 
+2MMP-03 |Multimedia Production (proDEV) |
+New Media design & Development I (NMDAD I) |
+Academic Year 2016-17 , Bachelor of Graphical and Digital Media ,  Artevelde University College Ghent 
+
+helpfuncties om te werken met localstorage en JSON
+*/
+
 /*
 ApplicationDbContext
 --------------------

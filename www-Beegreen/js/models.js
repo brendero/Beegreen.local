@@ -1,3 +1,12 @@
+/*Adriaan Glibert | Brent De Roeck | 
+2MMP-03 |Multimedia Production (proDEV) |
+New Media design & Development I (NMDAD I) |
+Academic Year 2016-17 , Bachelor of Graphical and Digital Media ,  Artevelde University College Ghent 
+
+models voor de array die in de localstorge word geplaats voor de users
+*/
+
+
 /*
 Model: Lecturer
 */
